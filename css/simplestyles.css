@@ -1,0 +1,22 @@
+/* Define a font family for the entire page */
+body {
+	font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+/* Define a style for the unordered list */
+ul {
+	list-style-type: none;
+	padding: 0;
+	margin: 0;
+}
+
+/* Define a style for the ordered list */
+ol {
+	counter-reset: item;
+	margin: 0;
+	padding: 0;
+}
+
+ol > li {
+	display: block;
+	position: relative;
+	margin
+}
